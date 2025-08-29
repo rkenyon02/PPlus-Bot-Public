@@ -1,5 +1,5 @@
 # P+ Discord Bot
-A Discord bot to make a customized [Slippi](Slippi.gg) leaderboard
+A Discord bot to make a customized [Slippi](https://slippi.gg/) leaderboard
 # Requirements
 Running this application requires Python 3 
 ## Python 3
@@ -16,3 +16,4 @@ Then create a file called .env in the root directory that contains your discord 
 DISCORD_TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxx"
 
 ```
+
