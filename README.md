@@ -1,5 +1,5 @@
 # P+ Discord Bot
-A Discord bot to make a customized Slippi leaderboard
+A Discord bot to make a customized [Slippi](Slippi.gg) leaderboard
 # Requirements
 Running this application requires Python 3 
 ## Python 3
@@ -14,4 +14,5 @@ To run this bot you will need to navigate to the [Discord for Developers](https:
 Then create a file called .env in the root directory that contains your discord secret token as seen below.
 ```
 DISCORD_TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxx"
+
 ```
